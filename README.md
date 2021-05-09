@@ -1,5 +1,5 @@
-# bikesharing
-
+# bikesharing overview
+	create a story in tableau public to convince future investors that a bike-sharing program in Des Moines is a solid business proposal. 
 ## Resources
 	-Pandas
 	-citibike-tripdata.csv
@@ -34,4 +34,4 @@
 ![](Resources/images/usertripsbygender.png)
 
 # Summary
-	There is a high-level summary of the results and two additional visualizations are suggested for future analysis
+	While more data is being collected it is not yet completely evident how this will affect Des Moines. Additional visualizations  to better analyize and show future investors would be for bike utlization to be more robust and use top starting and ending locations.
